@@ -1,0 +1,15 @@
+# YAML configuration for YOLOv8 segmentation
+
+# Base path to your dataset
+path: C:/Users/sarfa/Documents/PythonProject/image-segmentation-yolov8/data
+
+# Paths to training and validation image directories
+train: images/train
+val: images/val
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['duck']
+
